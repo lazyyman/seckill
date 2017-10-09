@@ -1,1 +1,5 @@
 target/
+.idea
+.idea/
+src/test/resources/
+jdbc.properties
