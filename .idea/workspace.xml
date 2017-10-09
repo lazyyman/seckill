@@ -2,84 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2cf9907-ef68-425f-8ddf-5aa9317a96e3" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/jdbc.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/logback.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/mapper/SeckillDao.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/mapper/SuccessKillDao.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/mybatis-config.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/seckill/dao/SeckillDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/seckill/dao/SuccessKilledDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/seckill/dto/Exposer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/seckill/dto/SeckillExecution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/seckill/dto/SeckillResult.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/seckill/entity/Seckill.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/seckill/entity/SuccessKilled.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/seckill/enums/SeckillStatEnum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/seckill/exception/RepeatKillExecption.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/seckill/exception/SeckillCloseException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/seckill/exception/SeckillException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/seckill/service/SeckillService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/seckill/service/impl/SeckillServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/seckill/web/SeckillController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring/spring-dao.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring/spring-service.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring/spring-web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/jdbc.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/logback.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/mapper/SeckillDao.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/mapper/SuccessKillDao.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/mybatis-config.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/org/seckill/dao/SeckillDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/org/seckill/dao/SuccessKilledDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/org/seckill/dto/Exposer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/org/seckill/dto/SeckillExecution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/org/seckill/dto/SeckillResult.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/org/seckill/entity/Seckill.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/org/seckill/entity/SuccessKilled.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/org/seckill/enums/SeckillStatEnum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/org/seckill/exception/RepeatKillExecption.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/org/seckill/exception/SeckillCloseException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/org/seckill/exception/SeckillException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/org/seckill/service/SeckillService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/org/seckill/service/impl/SeckillServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/org/seckill/web/SeckillController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/spring/spring-dao.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/spring/spring-service.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/spring/spring-web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/jsp/common/head.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/jsp/common/tag.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/jsp/detail.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/jsp/list.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/c3p0-0.9.1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/commons-logging-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/druid-1.0.26.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/jackson-annotations-2.5.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/jackson-core-2.5.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/jackson-databind-2.5.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/javax.servlet-api-3.1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/jstl-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/logback-classic-1.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/logback-core-1.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/mybatis-3.3.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/mybatis-spring-1.2.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/mysql-connector-java-5.1.39.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/slf4j-api-1.7.25.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/spring-aop-4.3.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/spring-beans-4.3.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/spring-context-4.3.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/spring-core-4.3.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/spring-expression-4.3.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/spring-jdbc-4.3.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/spring-test-4.3.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/spring-tx-4.3.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/spring-web-4.3.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/spring-webmvc-4.3.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/standard-1.1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/seckill/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/org/seckill/dao/SeckillDaoTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/org/seckill/service/impl/SeckillServiceImplTest.class" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/c3p0-0.9.1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/commons-logging-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/druid-1.0.26.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/jackson-annotations-2.5.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/jackson-core-2.5.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/jackson-databind-2.5.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/javax.servlet-api-3.1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/jstl-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/logback-classic-1.1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/logback-core-1.1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/mybatis-3.3.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/mybatis-spring-1.2.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/mysql-connector-java-5.1.39.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/slf4j-api-1.7.25.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/spring-aop-4.3.7.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/spring-beans-4.3.7.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/spring-context-4.3.7.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/spring-core-4.3.7.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/spring-expression-4.3.7.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/spring-jdbc-4.3.7.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/spring-test-4.3.7.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/spring-tx-4.3.7.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/spring-web-4.3.7.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/spring-webmvc-4.3.7.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/lib/standard-1.1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/jdbc.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/mapper/SeckillDao.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/mapper/SuccessKillDao.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/mybatis-config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/spring/spring-dao.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/spring/spring-service.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/classes/spring/spring-web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/jsp/common/head.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/jsp/common/tag.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/jsp/detail.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/jsp/list.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/seckill/index.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -140,59 +103,81 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2403">
-              <caret line="89" column="67" lean-forward="false" selection-start-line="89" selection-start-column="67" selection-end-line="89" selection-end-column="67" />
+            <state relative-caret-position="1404">
+              <caret line="52" column="67" lean-forward="false" selection-start-line="52" selection-start-column="67" selection-end-line="52" selection-end-column="67" />
               <folding>
-                <marker date="1507548853116" expanded="true" signature="92337:92361" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="92337:92378" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="92337:92396" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="92337:92409" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="92337:92424" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="92459:95392" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="92472:95377" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="92526:92909" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="92545:92894" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="92657:92874" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="92697:92840" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="92718:92818" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="92959:93265" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="92978:93250" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="93052:93230" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="93092:93196" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="93113:93174" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="93316:93581" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="93368:93546" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="93408:93512" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="93429:93490" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="93624:93930" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="93643:93915" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="93717:93895" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="93757:93861" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="93778:93839" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="93981:94330" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="94000:94315" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="94078:94295" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="94118:94261" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="94139:94239" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="94365:94671" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="94384:94656" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="94458:94636" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="94498:94602" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="94519:94580" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="94723:95050" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="94742:95035" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="94837:95015" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="94877:94981" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="94898:94959" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="95098:95363" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="95117:95348" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="95150:95328" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="95190:95294" ph="..." />
-                <marker date="1507548853116" expanded="true" signature="95211:95272" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="97189:97206" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="97189:97224" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="97189:97237" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="97189:97252" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="97287:100220" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="97300:100205" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="97354:97737" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="97373:97722" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="97485:97702" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="97525:97668" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="97546:97646" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="97787:98093" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="97806:98078" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="97880:98058" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="97920:98024" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="97941:98002" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="98144:98409" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="98163:98394" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="98196:98374" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="98236:98340" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="98257:98318" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="98452:98758" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="98471:98743" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="98545:98723" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="98585:98689" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="98606:98667" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="98809:99158" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="98828:99143" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="98906:99123" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="98946:99089" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="98967:99067" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="99193:99499" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="99212:99484" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="99286:99464" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="99326:99430" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="99347:99408" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="99551:99878" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="99570:99863" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="99665:99843" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="99705:99809" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="99726:99787" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="99926:100191" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="99945:100176" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="99978:100156" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="100018:100122" ph="..." />
+                <marker date="1507549063510" expanded="true" signature="100039:100100" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SeckillDaoTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/org/seckill/dao/SeckillDaoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -321,6 +306,7 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/list.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/detail.jsp" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -1053,7 +1039,7 @@
       <workItem from="1507173650619" duration="11781000" />
       <workItem from="1507473840081" duration="5855000" />
       <workItem from="1507514780843" duration="12000" />
-      <workItem from="1507548279449" duration="572000" />
+      <workItem from="1507548279449" duration="780000" />
     </task>
     <servers />
   </component>
@@ -1090,10 +1076,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37732000" />
+    <option name="totallyTimeSpent" value="37940000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1107,9 +1094,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41738197" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41738197" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3279743" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32725322" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1311,13 +1298,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="43">
           <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/org/seckill/dao/SeckillDaoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -1536,14 +1516,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/list.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
@@ -1554,56 +1526,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2403">
-          <caret line="89" column="67" lean-forward="false" selection-start-line="89" selection-start-column="67" selection-end-line="89" selection-end-column="67" />
+        <state relative-caret-position="1404">
+          <caret line="52" column="67" lean-forward="false" selection-start-line="52" selection-start-column="67" selection-end-line="52" selection-end-column="67" />
           <folding>
-            <marker date="1507548853116" expanded="true" signature="92337:92361" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="92337:92378" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="92337:92396" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="92337:92409" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="92337:92424" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="92459:95392" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="92472:95377" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="92526:92909" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="92545:92894" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="92657:92874" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="92697:92840" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="92718:92818" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="92959:93265" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="92978:93250" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="93052:93230" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="93092:93196" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="93113:93174" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="93316:93581" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="93368:93546" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="93408:93512" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="93429:93490" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="93624:93930" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="93643:93915" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="93717:93895" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="93757:93861" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="93778:93839" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="93981:94330" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="94000:94315" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="94078:94295" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="94118:94261" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="94139:94239" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="94365:94671" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="94384:94656" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="94458:94636" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="94498:94602" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="94519:94580" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="94723:95050" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="94742:95035" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="94837:95015" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="94877:94981" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="94898:94959" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="95098:95363" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="95117:95348" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="95150:95328" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="95190:95294" ph="..." />
-            <marker date="1507548853116" expanded="true" signature="95211:95272" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="97189:97206" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="97189:97224" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="97189:97237" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="97189:97252" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="97287:100220" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="97300:100205" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="97354:97737" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="97373:97722" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="97485:97702" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="97525:97668" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="97546:97646" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="97787:98093" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="97806:98078" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="97880:98058" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="97920:98024" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="97941:98002" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="98144:98409" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="98163:98394" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="98196:98374" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="98236:98340" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="98257:98318" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="98452:98758" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="98471:98743" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="98545:98723" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="98585:98689" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="98606:98667" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="98809:99158" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="98828:99143" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="98906:99123" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="98946:99089" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="98967:99067" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="99193:99499" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="99212:99484" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="99286:99464" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="99326:99430" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="99347:99408" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="99551:99878" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="99570:99863" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="99665:99843" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="99705:99809" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="99726:99787" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="99926:100191" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="99945:100176" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="99978:100156" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="100018:100122" ph="..." />
+            <marker date="1507549063510" expanded="true" signature="100039:100100" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/seckill/dao/SeckillDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
